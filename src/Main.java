@@ -1,5 +1,7 @@
+import linear_progs.*;
+
 public class Main {
     public static void main(String[] args) {
-Lin35.task(1115,4);
+        Lin39.task(2);
     }
 }

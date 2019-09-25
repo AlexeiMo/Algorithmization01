@@ -1,3 +1,6 @@
+package linear_progs;
+//13. Заданы координаты трех вершин треугольника (х1 у2),(х2, у2) ),(х3, у3). Найти его периметр и площадь.
+
 public class Lin13 {
     public static void task(int x1, int y1, int x2, int y2, int x3, int y3) {
         double a = Math.sqrt(Math.pow(x1,2) + Math.pow(y1,2));

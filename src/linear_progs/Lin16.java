@@ -1,3 +1,6 @@
+package linear_progs;
+//16. Найти произведение цифр заданного четырехзначного числа.
+
 public class Lin16 {
     public static void task(int x) {
         String num = Integer.toString(x);

@@ -1,3 +1,6 @@
+package linear_progs;
+//29. Найти (в радианах в градусах) все углы треугольника со сторонами а, b, с.
+
 public class Lin29 {
     public static void task(int a, int b, int c) {
         double angle1Deg = Math.acos((Math.pow(b,2) + Math.pow(c,2) - Math.pow(a,2))/(2*b*c));
